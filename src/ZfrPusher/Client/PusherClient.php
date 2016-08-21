@@ -47,9 +47,9 @@ class PusherClient extends Client
      * List of Pusher clusters
      */
     const CLUSTERS = array(
-        'us' => 'https://api.pusherapp.com',
-        'eu' => 'https://api-eu.pusher.com',
-        'ap' => 'https://api-ap1.pusher.com'
+        'us' => 'https://rest-pusher.ably.io',
+        'eu' => 'https://rest-pusher.ably.io',
+        'ap' => 'https://rest-pusher.ably.io'
     );
 
     /**
